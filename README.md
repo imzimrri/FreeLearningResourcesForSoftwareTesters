@@ -21,15 +21,15 @@ Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalt
 
 * [Agile Software Testing with James Bach](https://www.youtube.com/watch?v=SAhJf36_u5U)
 
-* [Black Box Software Testing (BBST)](http://www.testingeducation.org/BBST/)
+* [Black Box Software Testing (BBST)](https://bbst.courses/category/open-course-materials/)
 
-  * [Foundations](http://www.testingeducation.org/BBST/foundations/)
+  * [Foundations](https://bbst.courses/bbst-foundations-open-course-materials/)
 
-  * [Bug Advocacy](http://www.testingeducation.org/BBST/bugadvocacy/)
+  * [Bug Advocacy](https://bbst.courses/bbst-bug-advocacy-open-course-materials/)
 
-  * [Test Design](http://www.testingeducation.org/BBST/bugadvocacy/)
+  * [Test Design](https://bbst.courses/bbst-test-design-open-course-materials/)
 
-  * [Exploratory Testing](http://www.testingeducation.org/BBST/exploratory/)
+  * [Exploratory Testing](https://bbst.courses/exploratory-testing-open-course-materials/)
 
 * [Create Your Tester Portfolio, Issi Hazan & Shmuel Gershon](http://testing.gershon.info/wp-content/uploads/create_your_tester_portfolio_1-1.pdf)
 
